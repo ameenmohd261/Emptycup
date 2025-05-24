@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Epic Designs",
+    "rating": 4,
+    "description": "Passionate team of 4 designers working out of Bangalore with an experience of 4 years.",
+    "projects": 57,
+    "experience": 8,
+    "price": 2,
+    "phone1": "+91 - 984532853",
+    "phone2": "+91 - 984532854"
+  },
+  {
+    "id": 2,
+    "name": "Studio - D3",
+    "rating": 5,
+    "description": "Passionate team of 4 designers working out of Bangalore with an experience of 4 years.",
+    "projects": 43,
+    "experience": 6,
+    "price": 3,
+    "phone1": "+91 - 984532853",
+    "phone2": "+91 - 984532854"
+  },
+  {
+    "id": 3,
+    "name": "Design Masters",
+    "rating": 3,
+    "description": "Creative team specialized in modern and minimalist designs based in Mumbai.",
+    "projects": 32,
+    "experience": 5,
+    "price": 1,
+    "phone1": "+91 - 987654321",
+    "phone2": "+91 - 987654320"
+  },
+  {
+    "id": 4,
+    "name": "Artful Interiors",
+    "rating": 4,
+    "description": "Expert interior designers with a flair for contemporary and fusion styles.",
+    "projects": 48,
+    "experience": 7,
+    "price": 3,
+    "phone1": "+91 - 998765432",
+    "phone2": "+91 - 998765431"
+  },
+  {
+    "id": 5,
+    "name": "Urban Spaces",
+    "rating": 5,
+    "description": "Modern design studio focused on maximizing space with innovative solutions.",
+    "projects": 62,
+    "experience": 10,
+    "price": 2,
+    "phone1": "+91 - 976543210",
+    "phone2": "+91 - 976543211"
+  }
+]
